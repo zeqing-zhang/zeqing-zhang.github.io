@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zeqing Zhang"
 title_separator          : "-"
 name                     : &name "Zeqing Zhang"
-description              : &description "personal description"
-url                      : https://benjizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Zeqing Zhang (Benji Zhang), Assistant Professor (Research) at The Hong Kong Polytechnic University. Research in robotic manipulation, embodied AI, and robotics for scientific discovery."
+url                      : https://zeqing-zhang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zeqing-zhang/zeqing-zhang.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,13 +87,13 @@ analytics:
 author:
   name             : "Zeqing Zhang"
   avatar           : "ZeqingZhang_photo_cropped.jpg"
-  bio              : "Knows Nothing"
-  location         : "Singapore"
-  employer         :
+  bio              : "Assistant Professor (Research)"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           :
   orcid            : 
   googlescholar    : "https://scholar.google.com/citations?user=Uw2SbVgAAAAJ&hl=en"
-  email            : "zzqing@connect.hku.hk"
+  email            : "zeqing.zhang@polyu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Zeqing-Zhang-4"
   uri              :
   bitbucket        :
