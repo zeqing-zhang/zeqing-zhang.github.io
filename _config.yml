@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Zeqing Zhang"
   avatar           : "ZeqingZhang_photo_cropped.jpg"
-  bio              : ""
+  bio              :
   location         : "Hong Kong"
-  employer         : ""
+  employer         :
   pubmed           :
   orcid            : 
   googlescholar    : "https://scholar.google.com/citations?user=Uw2SbVgAAAAJ&hl=en"
