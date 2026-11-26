@@ -12,7 +12,7 @@ Short Bio
 ===
 I am **Zeqing Zhang**, also known as **Benji Zhang**, an [Assistant Professor (Research)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-zhang-zeqing/) in the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University.
 
-Previously, I was an MSCA Research Fellow at the University of Liverpool and a Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and [Prof. Ziwei Wang](https://ziweiwangthu.github.io/). Before that, I did postdoctoral training at The University of Hong Kong (HKU), closely working with [Prof. Jia Pan](https://ai.hku.hk/index.php/people/academic-staff/jpan).
+Previously, I was a Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and [Prof. Ziwei Wang](https://ziweiwangthu.github.io/). Before that, I did postdoctoral training at The University of Hong Kong (HKU), closely working with [Prof. Jia Pan](https://ai.hku.hk/index.php/people/academic-staff/jpan).
 
 Prior to this, I completed my PhD at HKU under the distinguished supervision of [Prof. Jia Pan](https://ai.hku.hk/index.php/people/academic-staff/jpan) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), whose guidance has been instrumental in shaping my research trajectory.
 
