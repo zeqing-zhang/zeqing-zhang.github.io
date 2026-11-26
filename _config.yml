@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeqing Zhang"
 title_separator          : "-"
 name                     : &name "Zeqing Zhang"
-description              : &description "Zeqing Zhang (Benji Zhang), Assistant Professor (Research) at The Hong Kong Polytechnic University. Research in robotic manipulation, embodied AI, and robotics for scientific discovery."
+description              : &description "Zeqing Zhang (Benji Zhang), The Hong Kong Polytechnic University. Research in robotic manipulation, embodied AI, and robotics for scientific discovery."
 url                      : https://zeqing-zhang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeqing-zhang/zeqing-zhang.github.io"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Zeqing Zhang"
   avatar           : "ZeqingZhang_photo_cropped.jpg"
-  bio              : "Assistant Professor (Research)"
+  bio              : ""
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   pubmed           :
