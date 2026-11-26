@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ===
-I am **Zeqing Zhang**, also known as **Benji Zhang**, with the Department of Electrical and Electronic Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-zhang-zeqing/).
+I am **Zeqing Zhang**, also known as **Benji Zhang**.
 
 Previously, I was a Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and [Prof. Ziwei Wang](https://ziweiwangthu.github.io/). Before that, I did postdoctoral training at The University of Hong Kong (HKU), closely working with [Prof. Jia Pan](https://ai.hku.hk/index.php/people/academic-staff/jpan).
 
